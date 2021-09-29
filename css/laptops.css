@@ -239,7 +239,7 @@ a {
         }
 
         #txt {
-            top: 27%;
+            top: 15%;
             font-size: 96%;
         }
 
@@ -250,8 +250,8 @@ a {
 
         #topImgLaptop {
             width: 100%;
-            margin-top: 19.5%;
-            height: 55vh;
+            margin-top: 19.5%;      
+            height: 30vh;
         }
         
         #cartIcon {
