@@ -234,19 +234,24 @@ a {
             margin: 3%;
         }
 
+        nav li a {
+            margin-left: 12%;
+        }
+
         #txt {
             top: 27%;
             font-size: 96%;
         }
 
         #picAndText {
-            width: 48%;
+            width: 60%;
             margin-left: 5%;
         }
 
         #topImgLaptop {
             width: 100%;
-            margin-top: 9.5%;
+            margin-top: 19.5%;
+            height: 55vh;
         }
         
         #cartIcon {

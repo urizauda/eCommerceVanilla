@@ -255,8 +255,20 @@ li a:hover {
     nav li {
         margin: 3%;
     }
+
+    #slider {
+        height: 20vh;
+        /* width: 70%; */
+    }
+
+    #slider figure img {
+        height: 20vh;
+        /* width: 70%; */
+
+    }
+
     #welcomeTitle {
-        margin-top: 13%;
+        margin-top: 22%;
     }
     #categories1 {
         width: 80%;
