@@ -396,7 +396,7 @@ span {
         
         #topImgHair {
             width: 100%;
-            margin-top: 19.5%;
+            margin-top: 18.5%;
             height: 30vh;
         }
 
@@ -422,6 +422,12 @@ span {
             margin-right: 50%;
         }
         #cartCounter {
-            margin-left: -15%;
+            margin-left: -25%;
+            margin-top: 1%;
+            width: 20%;
+        }
+
+        #logoPlusCounter {
+            width: 25%;
         }
     }

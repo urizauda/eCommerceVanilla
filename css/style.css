@@ -282,4 +282,7 @@ li a:hover {
     #cartIcon {
         margin-right: 50%;
     }
+    #logoPlusCounter {
+        width: 25%;
+    }
 }

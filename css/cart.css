@@ -202,9 +202,11 @@ li a:hover {
         margin-left: 39.5%;
     }
 
-    #tnx4Buy {
-        margin-top: -50%;
+    #tnx4Buy { 
+        margin-left: 22%;
+        margin-top: -60%;
         height: 20vh;
+        width: 50%;
     }
 
     h4 {
